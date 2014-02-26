@@ -2,7 +2,7 @@
 cars <- c(1, 3, 6, 4, 9)
 trucks <- c(2, 5, 4, 5, 12)
 
-trocando aki
+trocando aki d novo
 
 # Graph cars using a y axis that ranges from 0 to 12
 plot(cars, type="o", col="blackred", ylim=c(0,12))
